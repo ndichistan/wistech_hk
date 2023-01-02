@@ -3,7 +3,7 @@ title: WIS Tech | WIS Technologies
 theme: educenter-hugo
 paginate: '6'
 summaryLength: '10'
-disqusShortname: educenter
+disqusShortname: wistech
 disableLanguages: []
 params:
   address: Rmxxx, F/X XXX, Hong Kong
